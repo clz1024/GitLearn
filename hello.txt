@@ -7,3 +7,4 @@ hello! Git
 123455
 master中hello
 我是hot-fix分支上的hello
+我在远程添加了一行代码
